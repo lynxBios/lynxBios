@@ -29,7 +29,7 @@ I am a results-oriented **QA Automation Engineer in training** with a strong tec
 I am currently specializing in **QA Automation (JS/Playwright)** at Innowise Group. My goal is to apply my DevOps and Backend background to build high-performance automated testing solutions.
 
 ---
-📫 **Let's connect!** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@lynxBios)
+📫 **Let's connect!** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lynxBios)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/taćciana-radźkovič-3442a1197/)
 
 <!--
