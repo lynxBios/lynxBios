@@ -20,7 +20,8 @@ I am a results-oriented **QA Automation Engineer in training** with a strong tec
 * **Python Engineering:** Solid experience with backend logic, algorithms, and data structures.
 * **Frontend Basics:** Strong understanding of DOM structure and web layout, crucial for effective UI automation.
 
-### 🎓 Recent Projects
+### 🎓 Recent Projects   
+* **CSS Meme Slider with Autotests:** Designed and implemented an automated UI testing solution for a static web application. Built a Selenium + Pytest test suite with reusable fixtures and integrated it into GitHub Actions CI to validate pull requests before deployment.
 * **Backend-for-AWS-2023:** A full-scale serverless backend implementation with authorization and cloud-native services.
 * **Library Project:** A responsive multi-page website with custom JS logic for sliders and user interaction.
 * **RS School (JS/FE):** Intensive training in core JavaScript and modern web standards.
